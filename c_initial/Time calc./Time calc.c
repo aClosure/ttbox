@@ -23,7 +23,7 @@ int main(void)
             is1 += 60;
             im1--;
         }
-        
+
         if (im1 < 0)
         {
             im1 += 60;
